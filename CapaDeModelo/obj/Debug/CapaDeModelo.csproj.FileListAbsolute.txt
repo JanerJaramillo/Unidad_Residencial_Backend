@@ -1,0 +1,6 @@
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\bin\Debug\CapaDeModelo.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\bin\Debug\CapaDeModelo.pdb
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\obj\Debug\CapaDeModelo.csprojAssemblyReference.cache
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\obj\Debug\CapaDeModelo.csproj.CoreCompileInputs.cache
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\obj\Debug\CapaDeModelo.dll
+C:\Users\janer\OneDrive\Escritorio\Janer Jaramillo\C#\ASP.Net Core\Unidad_Residencial\CapaDeModelo\obj\Debug\CapaDeModelo.pdb
